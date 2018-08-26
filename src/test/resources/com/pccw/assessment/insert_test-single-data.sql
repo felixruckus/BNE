@@ -1,0 +1,1 @@
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('4116aa7e-ca4d-42ac-a7e0-b56bcfe1f191', 'fff@pccw.com', 'fffName', 'password@fff', 'fffUsername' )

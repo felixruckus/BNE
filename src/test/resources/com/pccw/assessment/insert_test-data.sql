@@ -1,0 +1,11 @@
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('060c3778-8ad6-4a90-a23e-b56338e1dc32', '000@pccw.com', '000Name', 'password@000', '000Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('103d81f6-a8fc-4dbe-a061-a6f838ca3fb0', '111@pccw.com', '111Name', 'password@111', '111Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('2135c2fe-fdd8-40cc-83b1-8062915ef973', '222@pccw.com', '222Name', 'password@222', '222Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('383d27d5-51bd-498a-9a3b-2aeb55f01481', '333@pccw.com', '333Name', 'password@333', '333Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('45b014cf-ef52-42cb-9d2a-644465358560', '444@pccw.com', '444Name', 'password@444', '444Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('560c3778-8ad6-4a90-a23e-b56338e1dc32', '555@pccw.com', '555Name', 'password@555', '555Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('660c3778-8ad6-4a90-a23e-b56338e1dc32', '666@pccw.com', '666Name', 'password@666', '666Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('760c3778-8ad6-4a90-a23e-b56338e1dc32', '777@pccw.com', '777Name', 'password@777', '777Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('860c3778-8ad6-4a90-a23e-b56338e1dc32', '888@pccw.com', '888Name', 'password@888', '888Username' )
+insert into User(ID, EMAIL, NAME, PASSWORD, USERNAME) values('960c3778-8ad6-4a90-a23e-b56338e1dc32', '999@pccw.com', '999Name', 'password@999', '999Username' )
+

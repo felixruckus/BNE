@@ -17,7 +17,6 @@ public class User {
     public User() {
         UUID uuid = UUID.randomUUID();
         this.id = uuid.toString();
-
     }
 
     public String getId() {
